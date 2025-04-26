@@ -30,8 +30,6 @@ A clear and concise description of what the bug is.
 
 On errors, please provide the output of the console (and `adb logcat` if relevant).
 
-```
-Please paste terminal output in a code block.
-```
+[server] ERROR: Capture/encoding error: java.lang.IllegalStateException: null
 
 Please do not post screenshots of your terminal, just post the content as text instead.
